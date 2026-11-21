@@ -1,0 +1,87 @@
+[
+  {
+    "configuration": "matched",
+    "coverage_count": 116,
+    "coverage_wilson_95": [
+      0.917419662440894,
+      0.9869624489016494
+    ],
+    "mean_final_pre_gate_nis": 1.9026344480558572,
+    "mean_nees": 4.426205868323331,
+    "nees_mc_standard_error": 0.27971840840888046,
+    "position_coverage": 0.9666666666666667,
+    "position_rmse": 1.2440743546950488,
+    "runs": 120,
+    "time_index": 60,
+    "total_rejected": 0,
+    "velocity_rmse": 0.8409693150792784
+  },
+  {
+    "configuration": "low_process_noise",
+    "coverage_count": 36,
+    "coverage_wilson_95": [
+      0.2252562422427457,
+      0.38715142432473576
+    ],
+    "mean_final_pre_gate_nis": 4.6274749759002685,
+    "mean_nees": 60.99643367398726,
+    "nees_mc_standard_error": 5.050061996264249,
+    "position_coverage": 0.3,
+    "position_rmse": 2.224233953922176,
+    "runs": 120,
+    "time_index": 60,
+    "total_rejected": 0,
+    "velocity_rmse": 1.1137055589771776
+  },
+  {
+    "configuration": "sparse_measurements",
+    "coverage_count": 115,
+    "coverage_wilson_95": [
+      0.9061591476629647,
+      0.9820732831198906
+    ],
+    "mean_final_pre_gate_nis": 1.8416727680333413,
+    "mean_nees": 4.168558121099123,
+    "nees_mc_standard_error": 0.27775673367908194,
+    "position_coverage": 0.9583333333333334,
+    "position_rmse": 1.5575395580597173,
+    "runs": 120,
+    "time_index": 60,
+    "total_rejected": 0,
+    "velocity_rmse": 0.892168820219388
+  },
+  {
+    "configuration": "outliers_ungated",
+    "coverage_count": 115,
+    "coverage_wilson_95": [
+      0.9061591476629647,
+      0.9820732831198906
+    ],
+    "mean_final_pre_gate_nis": 1.9399592375733101,
+    "mean_nees": 4.571954427110697,
+    "nees_mc_standard_error": 0.3025877590406952,
+    "position_coverage": 0.9583333333333334,
+    "position_rmse": 1.2705978237546587,
+    "runs": 120,
+    "time_index": 60,
+    "total_rejected": 0,
+    "velocity_rmse": 0.852415509031269
+  },
+  {
+    "configuration": "outliers_gated",
+    "coverage_count": 112,
+    "coverage_wilson_95": [
+      0.8739486959646967,
+      0.9658346931390938
+    ],
+    "mean_final_pre_gate_nis": 2.03806374285852,
+    "mean_nees": 4.740158650622219,
+    "nees_mc_standard_error": 0.3019503972573736,
+    "position_coverage": 0.9333333333333333,
+    "position_rmse": 1.3575460499765681,
+    "runs": 120,
+    "time_index": 60,
+    "total_rejected": 432,
+    "velocity_rmse": 0.8679711227120168
+  }
+]

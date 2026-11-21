@@ -1,0 +1,13 @@
+test_24_independent_batch_gaussian_oracles_with_missing_observations (test_filter.FilterTests.test_24_independent_batch_gaussian_oracles_with_missing_observations) ... ok
+test_analytic_scalar_predict_and_joseph_update (test_filter.FilterTests.test_analytic_scalar_predict_and_joseph_update) ... ok
+test_continuous_noise_convention_and_composition (test_filter.FilterTests.test_continuous_noise_convention_and_composition) ... ok
+test_covariance_psd_symmetry_and_reproducible_records (test_filter.FilterTests.test_covariance_psd_symmetry_and_reproducible_records) ... ok
+test_experiment_result_does_not_alias_configuration_or_truth (test_filter.FilterTests.test_experiment_result_does_not_alias_configuration_or_truth) ... ok
+test_missing_observation_and_inclusive_gate (test_filter.FilterTests.test_missing_observation_and_inclusive_gate) ... ok
+test_validation_and_defensive_arrays (test_filter.FilterTests.test_validation_and_defensive_arrays) ... ok
+test_nonorthogonal_state_basis_preserves_innovations_and_posterior (test_review.ReviewTests.test_nonorthogonal_state_basis_preserves_innovations_and_posterior) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.248s
+
+OK

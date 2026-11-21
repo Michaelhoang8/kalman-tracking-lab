@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-21T01:42:06.059178+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Kalman tracking \u00b7 estimation study",
+  "report_sha256_normalized_text": "aa66e09f9f28a49be5b9443deb29018ef8fe9b1063ff68f301199aed1f0225d1",
+  "video_sha256": "bad47c628c64eaef76330fb44a859577086dfc109a58e9e03b6fe238fa6d02df",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "c481eceeb490388e30f26a50e9cc03efdd14614b39aec75d29b11c0275d1e1db"
+    },
+    {
+      "path": "docs/screenshots/02_model.png",
+      "section": "model",
+      "sha256": "d8bbdda4bbba2be3a3ea14ff67be0a1abe8841ef865233e1548b4b3113ade764"
+    },
+    {
+      "path": "docs/screenshots/03_missing.png",
+      "section": "missing",
+      "sha256": "9e86d67e79a2de86fe5e95edfe4be3d1d86e5b39300442dcda32ad17b9ef88b6"
+    },
+    {
+      "path": "docs/screenshots/04_gating.png",
+      "section": "gating",
+      "sha256": "bea2b6f6c054fe0a43aa406961a4adf4b1a0e963488608b63b192b11f3805bd7"
+    },
+    {
+      "path": "docs/screenshots/05_consistency.png",
+      "section": "consistency",
+      "sha256": "c44d36a1a9700d6a11c0af93bdc4adb3da67086f86ea1ce90f2b24df9958605e"
+    },
+    {
+      "path": "docs/screenshots/06_reproduction.png",
+      "section": "reproduction",
+      "sha256": "c92e45b68840cf7a81eb282849bf37c3d3f55aaadecc40a066bd0418efa93b9b"
+    }
+  ]
+}

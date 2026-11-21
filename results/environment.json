@@ -1,0 +1,17 @@
+{
+  "illustrative_seed": 20261121,
+  "matplotlib": "3.11.2",
+  "monte_carlo_runs": 120,
+  "monte_carlo_seed": 661024,
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+  "python": "3.13.17 (tags/v3.13.17:64e080d, Oct 21 2026, 14:08:53) [MSC v.1944 64 bit (AMD64)]",
+  "recorded_utc": "2026-11-21T01:34:52.754575+00:00",
+  "timing": {
+    "order_seed": 14992,
+    "samples_per_configuration": 15,
+    "scope": "60 filtering steps including array validation and Python result construction; excludes simulation, JSON encoding, disk writes and plotting",
+    "warmups": 2
+  }
+}

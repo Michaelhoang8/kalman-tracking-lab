@@ -1,0 +1,140 @@
+{
+  "arrays": {
+    "accepted": {
+      "dtype": "bool",
+      "shape": [
+        5,
+        120,
+        61
+      ]
+    },
+    "clean_observations": {
+      "dtype": "float64",
+      "shape": [
+        120,
+        60,
+        2
+      ]
+    },
+    "injected_outlier": {
+      "dtype": "bool",
+      "shape": [
+        5,
+        120,
+        61
+      ]
+    },
+    "innovation_covariance": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        2,
+        2
+      ]
+    },
+    "innovation_residual": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        2
+      ]
+    },
+    "nis": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61
+      ]
+    },
+    "observed": {
+      "dtype": "bool",
+      "shape": [
+        5,
+        120,
+        61
+      ]
+    },
+    "posterior_covariance": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        4,
+        4
+      ]
+    },
+    "posterior_mean": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        4
+      ]
+    },
+    "predicted_covariance": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        4,
+        4
+      ]
+    },
+    "predicted_mean": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        4
+      ]
+    },
+    "seeds": {
+      "dtype": "uint32",
+      "shape": [
+        120
+      ]
+    },
+    "truth": {
+      "dtype": "float64",
+      "shape": [
+        120,
+        61,
+        4
+      ]
+    },
+    "used_observation": {
+      "dtype": "float64",
+      "shape": [
+        5,
+        120,
+        61,
+        2
+      ]
+    }
+  },
+  "configuration_axis": [
+    "matched",
+    "low_process_noise",
+    "sparse_measurements",
+    "outliers_ungated",
+    "outliers_gated"
+  ],
+  "missing": "NaN for unavailable observations/innovations and predicted prior at index 0; use observed mask",
+  "run_axis": "seeds array; independent runs, paired across configurations",
+  "state_order": [
+    "x",
+    "y",
+    "vx",
+    "vy"
+  ],
+  "time_axis": "0 prior; 1..60 after prediction/update; dt=0.5 seconds"
+}

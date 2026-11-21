@@ -1,0 +1,16 @@
+{
+  "captured_utc": "2026-11-21T01:38:10.161155+00:00",
+  "description": "Actual automated browser playback of saved illustrative states, steps 0 through recorded last_step.",
+  "last_step": 50,
+  "viewport": [
+    1200,
+    640
+  ],
+  "timing": "Illustrative playback around 160 milliseconds per saved step; not filtering execution time.",
+  "source_records_sha256": "2c631dd821cd8b35c43c1bd4cd94e73326fb07b7437a218c0c4285b297de715d",
+  "source_input_sha256": "85d61ca35417648468ee3f82984b59aecb6ada4e297f9fd2677b9b985e577e06",
+  "report_sha256_lf": "aa66e09f9f28a49be5b9443deb29018ef8fe9b1063ff68f301199aed1f0225d1",
+  "capture_script_sha256_lf": "970bf419a54d5e099b75709d82483dbc6c6ad26b5ddfc7e07ed420809df8406b",
+  "video_sha256": "9d8dfe66eb9a3087d0cf6dbcba1e6deaefb6052f1242ee03965994bdf9ed3c45",
+  "frame_sha256": "d3dcc3d8a7fa2049105129a9e112237420e3f3e2e284ba008f1fa52641e7447c"
+}
