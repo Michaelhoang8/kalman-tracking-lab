@@ -1,5 +1,7 @@
 # Kalman tracking lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/kalman-tracking-lab/)**
+
 A linear Kalman filter implemented with NumPy solves and Joseph covariance updates, evaluated against an independent batch Gaussian least-squares oracle. The study compares motion-noise mismatch, missing measurements and innovation gating on reproducible synthetic 2D trajectories.
 
 The repository retains full state, covariance and innovation histories—not just plots. This is an AI-assisted implementation and analysis using synthetic data, without a real robot or deployed navigation claim.
